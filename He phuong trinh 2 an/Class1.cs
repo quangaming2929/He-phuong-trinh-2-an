@@ -26,7 +26,7 @@ namespace He_phuong_trinh_2_an
         }
         public double getX()
         {
-            return x;
+            return x + 1;
         }
         public double getY()
         {
