@@ -20,7 +20,7 @@ namespace He_phuong_trinh_2_an
             Calcualtion();
         }
         private void Calcualtion()
-        { 
+        { á
             y = (c * d - f * a) / (b * d - e * a);
             x = (c - b * y) / a;
         }
